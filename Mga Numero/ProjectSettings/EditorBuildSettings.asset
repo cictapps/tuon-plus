@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartGame.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Game1.unity
+    guid: 4d585b8f834a110429db2d5a9ae1d778
+  - enabled: 1
+    path: Assets/Scenes/isa.unity
+    guid: d6c1f4e99d6eeb5428163f891139be49
+  - enabled: 1
+    path: Assets/Scenes/Game2.unity
+    guid: e189427742c7b5641af3ab406cab9a46
+  - enabled: 1
+    path: Assets/Scenes/duha.unity
+    guid: 6aa714e0c24b59444a24b2dfc30f05a3
+  - enabled: 1
+    path: Assets/Scenes/Game3.unity
+    guid: 8c102cdb89b513e42a9a543680382bd1
+  - enabled: 1
+    path: Assets/Scenes/tatlo.unity
+    guid: 4db88f8f137fcc44abf55da21f055016
+  - enabled: 1
+    path: Assets/Scenes/Game4.unity
+    guid: bd6abedeb478dd7458472098e600cc93
+  - enabled: 1
+    path: Assets/Scenes/apat.unity
+    guid: 1904bb98c064de841a504f51441f447b
+  - enabled: 1
+    path: Assets/Scenes/Game5.unity
+    guid: daa8f4ec1446cc6478f06ce87e460133
+  - enabled: 1
+    path: Assets/Scenes/lima.unity
+    guid: 67662e20922456440855d330b3904dbc
+  - enabled: 1
+    path: Assets/Scenes/Game6.unity
+    guid: fd51ed04c10580c478b2a16ba1b32753
+  - enabled: 1
+    path: Assets/Scenes/anum.unity
+    guid: b9764989775ed934c9dbbd9da7ff0d30
+  - enabled: 1
+    path: Assets/Scenes/Game7.unity
+    guid: 881a2f25247c91f459ae2d319a8e77cd
+  - enabled: 1
+    path: Assets/Scenes/pito.unity
+    guid: 257d61adfbb6d8942b2a2b7fe5fe2b85
+  - enabled: 1
+    path: Assets/Scenes/Game8.unity
+    guid: 50c295da5157fd94f814abcc4ccf3007
+  - enabled: 1
+    path: Assets/Scenes/walo.unity
+    guid: 3aee34af6633c4d428467acbc546b173
+  - enabled: 1
+    path: Assets/Scenes/Game9.unity
+    guid: 92cab7908286cd0408a4f1c7302e3ded
+  - enabled: 1
+    path: Assets/Scenes/siam.unity
+    guid: 9993a30a1c7158e498d14e37542fd547
+  - enabled: 1
+    path: Assets/Scenes/Game10.unity
+    guid: 88aab21001c22c74fa43beb90fc4b35a
+  - enabled: 1
+    path: Assets/Scenes/napulo.unity
+    guid: 1966dc9fc6ae32d4688ceae120740f2f
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
