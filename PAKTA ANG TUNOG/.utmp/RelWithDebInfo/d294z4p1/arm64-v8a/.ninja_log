@@ -1,0 +1,11 @@
+# ninja log v5
+244	1027	7487823701825448	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	a660a33e2e860626
+217	2507	7487823716283037	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8863c37e46ff56df
+115	2511	7487823715733146	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	1012ac76307a6875
+3	2620	7487823717027661	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ee1433bea3a85e3
+1029	2676	7487823709703435	C:/Users/ACER/Desktop/Pakta and Tunog Remake/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/d294z4p1/obj/arm64-v8a/libswappywrapper.so	c89f611be8cf10b1
+228	2734	7487823718461295	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7653fd12ac09c74f
+33	2982	7487823721102960	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	f8a58bf591cfb110
+128	3556	7487823726881587	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	5ee07cfbf509fe4c
+105	3721	7487823728674581	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	3feba55b23a01472
+3722	5123	7487823735724793	C:/Users/ACER/Desktop/Pakta and Tunog Remake/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/d294z4p1/obj/arm64-v8a/libgame.so	82d2b074059d7c6
